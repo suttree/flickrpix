@@ -4,27 +4,62 @@
 # - better OAuth
 # - select 5 random pix and post them somewhere
 
-require 'flickraw'
+require 'yaml'
 require 'rubygems'
-require 'active_support'
+require 'flickraw'
+require File.join(File.dirname(__FILE__), 'helpers', 'config_store')
+config = ConfigStore.new(File.join(File.dirname(__FILE__), '.flickr'))
+#oauth = Twitter::OAuth.new(config['token'], config['secret'])
 
 FlickRaw.api_key = ENV['FLICKR_API_KEY']
 FlickRaw.shared_secret = ENV['FLICKR_API_SECRET']
 
 token = flickr.get_request_token
-auth_url = flickr.get_authorize_url(token['oauth_token'], :perms => 'delete')
 
-puts "Open this url in your process to complete the authication process : #{auth_url}"
-puts "Copy here the number given when you complete the process."
-verify = gets.strip
+if config['token'] && config['secret']
+  flickr.access_token = config['token']
+  flickr.access_secret = config['secret']
+else
+  auth_url = flickr.get_authorize_url(token['oauth_token'], :perms => 'delete')
 
-begin
-  flickr.get_access_token(token['oauth_token'], token['oauth_token_secret'], verify)
-  login = flickr.test.login
-  puts "You are now authenticated as #{login.username} with token #{flickr.access_token} and secret #{flickr.access_secret}"
-rescue FlickRaw::FailedResponse => e
-  puts "Authentication failed : #{e.msg}"
+  puts "Open this url in your process to complete the authentication process : #{auth_url}"
+  puts "Copy here the number given when you complete the process."
+  verify = gets.strip
+
+  begin
+    flickr.get_access_token(token['oauth_token'], token['oauth_token_secret'], verify)
+    login = flickr.test.login
+
+    config.update({
+        'token'  => token['oauth_token'],
+        'secret' => token['oauth_token_secret']
+    })
+
+    puts 'Run this script again, now that you are authorised'
+    exit(0)
+  rescue FlickRaw::FailedResponse => e
+    puts "Authentication failed : #{e.msg}"
+    exit
+  end
 end
+
+
+#token = flickr.get_request_token
+#auth_url = flickr.get_authorize_url(token['oauth_token'], :perms => 'delete')
+#
+#puts "Open this url in your process to complete the authication process : #{auth_url}"
+#puts "Copy here the number given when you complete the process."
+#verify = gets.strip
+#
+#begin
+#  flickr.get_access_token(token['oauth_token'], token['oauth_token_secret'], verify)
+#  login = flickr.test.login
+#  puts "You are now authenticated as #{login.username} with token #{flickr.access_token} and secret #{flickr.access_secret}"
+#  exit('Run this script again, now that you are authorised')
+#rescue FlickRaw::FailedResponse => e
+#  puts "Authentication failed : #{e.msg}"
+#  exit
+#end
 
 id = flickr.people.findByUsername(:username => ENV['FLICKR_API_USERNAME']).id
 puts id
