@@ -1,8 +1,5 @@
 #! /usr/bin/env ruby
 
-# TODO
-# - select 5 random pix and post them somewhere
-
 require 'yaml'
 require 'rubygems'
 require 'flickraw'
@@ -44,7 +41,11 @@ end
 id = flickr.people.findByUsername(:username => ENV['FLICKR_API_USERNAME']).id
 
 list = flickr.people.getPhotos( :user_id => id, :min_taken_date => Time.now.to_i - (395 * 86400), :max_taken_date => Time.now.to_i - (365 * 86400) )
+
+urls = []
 list.each do |photo|
   info = flickr.photos.getInfo(:photo_id => photo['id'])
-  puts FlickRaw.url_photopage(info).inspect
+  urls << FlickRaw.url_photopage(info)
 end
+
+random_pics = urls.sample(4)
