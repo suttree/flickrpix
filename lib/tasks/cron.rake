@@ -44,6 +44,6 @@ task :flickrpix => :environment do
     urls << {:page => FlickRaw.url_photopage(info), :image => FlickRaw.url_z(info)}
   end
 
-  random_pics = urls.sample(4)
+  random_pics = urls.sample(5)
   FlickrpixMailer.send_daily_email(random_pics).deliver!
 end
