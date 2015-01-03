@@ -1,6 +1,8 @@
 #! /usr/bin/env ruby
 
 require 'yaml'
+require 'erb'
+require 'ostruct'
 require 'rubygems'
 require 'flickraw'
 require File.join(File.dirname(__FILE__), 'helpers', 'config_store')
@@ -45,7 +47,15 @@ list = flickr.people.getPhotos( :user_id => id, :min_taken_date => Time.now.to_i
 urls = []
 list.each do |photo|
   info = flickr.photos.getInfo(:photo_id => photo['id'])
-  urls << FlickRaw.url_photopage(info)
+  urls << {:page => FlickRaw.url_photopage(info), :image => FlickRaw.url_z(info)}
 end
 
 random_pics = urls.sample(4)
+puts random_pics.inspect
+
+
+#template = File.read(File.join(File.dirname(__FILE__), 'templates', 'email.rb'))
+#vars = {:name => 'Duncan'}
+#
+#parsed_template = ERB.new(template).result(OpenStruct.new(vars).instance_eval { binding })
+#puts parsed_template
