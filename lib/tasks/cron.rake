@@ -36,7 +36,7 @@ task :flickrpix => :environment do
 
   id = flickr.people.findByUsername(:username => ENV['FLICKR_API_USERNAME']).id
 
-  list = flickr.people.getPhotos( :user_id => id, :min_taken_date => Time.now.to_i - (395 * 86400), :max_taken_date => Time.now.to_i - (365 * 86400) )
+  list = flickr.people.getPhotos( :user_id => id, :min_taken_date => Time.now.to_i - (366 * 86400), :max_taken_date => Time.now.to_i - (365 * 86400) )
 
   urls = []
   list.each do |photo|
@@ -45,5 +45,10 @@ task :flickrpix => :environment do
   end
 
   random_pics = urls.sample(5)
-  FlickrpixMailer.send_daily_email(random_pics).deliver!
+
+  if random_pics.any?
+    FlickrpixMailer.send_daily_email(random_pics).deliver!
+  else
+    puts "No photos to deliver"
+  end
 end
