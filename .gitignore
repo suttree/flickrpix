@@ -2,3 +2,6 @@ config/initializers/amazon_ses.rb
 .flickr
 *.swp
 log/*.log
+db/*
+tmp/*
+log/*
