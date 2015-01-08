@@ -28,7 +28,7 @@ class ApplicationController < ActionController::Base
     # I stick mine in memcache with their session key as the cache key
     session[:token] = token
 
-    @auth_url = flickr.get_authorize_url(token['oauth_token'], :perms => 'delete')
+    @auth_url = flickr.get_authorize_url(token['oauth_token'])
     # Stick @auth_url in your template for users to click
   end
 
