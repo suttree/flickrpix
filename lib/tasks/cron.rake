@@ -34,6 +34,8 @@ task :flickrpix => :environment do
     end
   end
 
+  #puts flickr.auth.oauth.getAccessToken()
+
   id = flickr.people.findByUsername(:username => ENV['FLICKR_API_USERNAME']).id
 
   list = flickr.people.getPhotos( :user_id => id, :min_taken_date => Time.now.to_i - (366 * 86400), :max_taken_date => Time.now.to_i - (365 * 86400) )
@@ -47,6 +49,7 @@ task :flickrpix => :environment do
   random_pics = urls.sample(5)
 
   if random_pics.any?
+    puts "sending px"
     FlickrpixMailer.send_daily_email(random_pics).deliver!
   else
     puts "No photos to deliver"

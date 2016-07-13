@@ -531,3 +531,891 @@ Processing by ApplicationController#callback as HTML
   Parameters: {"oauth_token"=>"72157647864890283-7006230a2e909354", "oauth_verifier"=>"14d003785d00d135"}
   Rendered text template (0.0ms)
 Completed 200 OK in 257ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  Rendered flickrpix_mailer/send_daily_email.html.erb (13.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2305.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2466.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2984.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (29.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2455.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (29.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 4176.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (19.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3923.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (28.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2937.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (29.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3591.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2120.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (32.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2582.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (29.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2594.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (19.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2095.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (31.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2604.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 565.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 500.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2388.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (7.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1122.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 586.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (28.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2114.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (24.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1506.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2460.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1914.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (7.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 635.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (21.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2594.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (28.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1952.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (60.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2275.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2685.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2305.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (28.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2259.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2362.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (24.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3595.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (33.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2600.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (54.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3751.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2235.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (20.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1779.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (21.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2645.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (19.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2330.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 730.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1112.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2467.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 633.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 578.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2037.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2775.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2753.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (24.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1686.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (10.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 957.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (15.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1306.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2747.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2403.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2483.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2785.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (18.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1071.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2707.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (23.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3094.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (11.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1215.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (8.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 603.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (55.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1809.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3463.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (24.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3317.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2572.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (66.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3357.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 962.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2369.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (28.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2338.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2585.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2298.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 792.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1998.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2098.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2112.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2152.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2566.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2351.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2300.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2421.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (58.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2329.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 639.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2139.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (18.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1516.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2219.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 600.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 461.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 4761.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 575.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (62.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3205.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2802.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3055.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2533.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2851.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (53.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2034.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (57.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1933.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (13.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2355.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 667.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2131.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2100.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (14.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 985.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (24.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2716.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (15.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1248.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 570.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (20.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1759.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (24.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2217.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (62.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3363.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2829.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1921.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (8.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 640.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (19.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1951.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 538.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (14.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1565.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (18.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1606.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (13.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1718.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2253.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (10.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 978.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1006.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2255.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2049.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1840.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 583.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 639.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2884.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (32.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2584.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (20.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1733.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1045.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2349.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (13.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1427.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1041.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 990.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 961.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3983.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (30.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1899.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (28.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3475.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (30.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2533.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2566.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (13.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 919.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2428.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2844.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (11.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2728.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 913.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2280.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 663.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2002.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (10.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1198.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 635.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (8.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1922.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (13.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1983.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (7.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 537.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2392.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2290.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (20.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 924.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (55.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1907.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 511.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (19.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2021.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2107.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 557.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2031.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (20.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1800.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (29.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2251.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 619.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (13.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1508.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (24.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2115.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 728.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (13.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1356.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (28.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2051.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (80.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2125.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (30.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2101.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1005.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1316.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (28.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2158.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2440.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 637.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (30.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2802.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 552.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1144.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2974.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (28.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1871.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 634.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (11.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1126.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 645.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (12.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 819.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 650.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2242.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2116.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (62.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2295.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2179.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1849.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (16.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1113.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2833.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2226.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2790.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (64.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2104.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 725.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1238.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 4926.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2508.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (7.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 726.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 605.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1242.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (31.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3552.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (24.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2275.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 620.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (61.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2479.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (14.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1282.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (10.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1064.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 659.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (14.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1550.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2595.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (30.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2546.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (10.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1049.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1152.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 808.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2997.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (15.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1608.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 666.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3129.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2390.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (8.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 632.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1158.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2820.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (76.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2522.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3459.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2893.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (28.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3432.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (20.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2092.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 690.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1160.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 579.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2429.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (19.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1878.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (14.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1738.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (19.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1917.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2584.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (66.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2865.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (28.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1496.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (7.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 851.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (12.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 813.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (13.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 703.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2153.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 698.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (42.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1511.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2694.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (49.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2950.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2737.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (50.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2761.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (16.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1814.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (58.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2507.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (93.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3523.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (25.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2598.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (10.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1177.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (15.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1712.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (35.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1728.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (15.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1999.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (80.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2502.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (51.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3020.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3087.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (31.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3063.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (75.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3719.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (30.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 4100.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (28.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3636.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (20.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2780.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (16.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2365.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3757.6ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (33.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2084.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (19.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2374.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3348.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (16.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1442.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (67.3ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3306.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (29.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2790.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (10.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1252.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2579.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (153.8ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3278.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (9.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 970.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (61.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3543.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (15.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1183.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (11.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1284.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (75.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2952.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (67.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3294.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (15.9ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2254.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (7.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 905.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (43.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2414.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (6.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 765.8ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (11.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1108.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (12.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1330.4ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (27.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3125.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (7.7ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 776.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (7.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 660.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (89.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3559.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (171.0ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2703.7ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (10.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1235.2ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (52.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3423.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (26.1ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2806.5ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (31.6ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3210.1ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (64.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 3281.3ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (55.4ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2607.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (18.2ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1927.9ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (10.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 1572.0ms
+  Rendered flickrpix_mailer/send_daily_email.html.erb (14.5ms)
+
+FlickrpixMailer#send_daily_email: processed outbound mail in 2164.4ms
